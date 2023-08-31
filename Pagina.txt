@@ -1,0 +1,12 @@
+<HTML>
+	<HEAD>
+		<TITLE>
+			Estructuras basicas
+		</TITLE>
+	</HEAD>
+	<BODY>
+		Daniel
+		Hernandez
+		Olague
+	</BODY>
+</HTML>
